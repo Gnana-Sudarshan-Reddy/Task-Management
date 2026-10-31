@@ -13,5 +13,6 @@ A simple task manager API built with FastAPI and SQLite.
 | `DELETE /api/tasks/{task_id}` | Delete a task |
 
 
--- NAGI REDDY GNANA SUDARSHAN REDDY
--- PYTHON DEVELOPER
+-- NAGI REDDY GNANA SUDARSHAN REDDY.
+
+-- PYTHON DEVELOPER.
